@@ -1,4 +1,4 @@
-Deename: Kernelsu
+name: Kernelsu
 
 on:
   workflow_dispatch:
